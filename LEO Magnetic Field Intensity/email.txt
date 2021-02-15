@@ -1,0 +1,13 @@
+Hey Thomas,
+
+ 
+
+The magnetic field data is here! BECI is the field in ECI in units of nanotesla over 100 orbits, sampled continuously rather than once per second, and t is the time. Just multiply the entire variable by 1e-9 if you need tesla instead! If you wanted the vector magnitude of the field at each timestep, that variable is attached, still in nanotesla and still associated with the same t variable from the linked data.
+
+ 
+
+Thanks,
+
+ 
+
+Anna
